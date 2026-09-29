@@ -6,6 +6,35 @@
   "iconURL": "https://raw.githubusercontent.com/Nozomagarion/altstore-source/main/icon.png",
   "website": "https://github.com/Nozomagarion/altstore-source",
   "tintColor": "3B82F6",
-  "apps": [],
+  "apps": [
+    {
+      "name": "Quotas IA",
+      "bundleIdentifier": "com.nozo.usagewidget",
+      "developerName": "Nozo",
+      "subtitle": "Quotas Claude, Codex et OpenCode Go",
+      "localizedDescription": "Un widget pour voir d'un coup d'œil ce qu'il te reste sur Claude, Codex et OpenCode Go.\n\nConnecte-toi une fois avec ton compte (sans clé API) : le widget se met ensuite à jour tout seul.\n\n• Claude : session 5 h et hebdo\n• Codex : fenêtres 5 h et hebdo\n• OpenCode Go : 5 h, hebdo et mensuel\n\nPetit, medium et écran verrouillé.",
+      "iconURL": "https://raw.githubusercontent.com/Nozomagarion/altstore-source/main/icon.png",
+      "tintColor": "D97757",
+      "category": "utilities",
+      "tagPrefix": "quotas-ia-",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1.0.0",
+          "date": "2026-09-29T20:51:11Z",
+          "localizedDescription": "Première version : quotas Claude, Codex et OpenCode Go en widget.",
+          "downloadURL": "https://github.com/Nozomagarion/altstore-source/releases/download/quotas-ia-v1.0.0/QuotasIA.ipa",
+          "size": 366482,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "1.0.0",
+      "versionDate": "2026-09-29T20:51:11Z",
+      "versionDescription": "Première version : quotas Claude, Codex et OpenCode Go en widget.",
+      "downloadURL": "https://github.com/Nozomagarion/altstore-source/releases/download/quotas-ia-v1.0.0/QuotasIA.ipa",
+      "size": 366482,
+      "screenshots": []
+    }
+  ],
   "news": []
 }
