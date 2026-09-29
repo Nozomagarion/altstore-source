@@ -8,7 +8,7 @@
   "tintColor": "3B82F6",
   "apps": [
     {
-      "repo": "Nozomagarion/quotas-ia-widget",
+      "repo": "Nozomagarion/altstore-source",
       "asset": "QuotasIA.ipa",
       "name": "Quotas IA",
       "bundleIdentifier": "com.nozo.usagewidget",
@@ -18,7 +18,8 @@
       "iconURL": "https://raw.githubusercontent.com/Nozomagarion/altstore-source/main/icon.png",
       "tintColor": "D97757",
       "category": "utilities",
-      "minOSVersion": "17.0"
+      "minOSVersion": "17.0",
+      "tagPrefix": "quotas-ia-"
     }
   ]
 }

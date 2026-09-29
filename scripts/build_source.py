@@ -17,7 +17,10 @@ def versions_for(app):
         asset = next((a for a in rel.get("assets", []) if a["name"] == app["asset"]), None)
         if not asset:
             continue
-        v = rel["tag_name"].lstrip("v")
+        prefix = app.get("tagPrefix", "")
+        if not rel["tag_name"].startswith(prefix):
+            continue  # release d'une autre app du même dépôt
+        v = rel["tag_name"][len(prefix):].lstrip("v")
         out.append({
             "version": v,
             "buildVersion": v,
