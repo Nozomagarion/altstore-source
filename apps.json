@@ -1,0 +1,11 @@
+{
+  "name": "Nozo Apps",
+  "identifier": "com.nozo.altstore",
+  "subtitle": "Mes apps iOS, installables avec AltStore / SideStore",
+  "description": "Source AltStore de mes applications. Les versions sont lues automatiquement depuis les releases GitHub de chaque app.",
+  "iconURL": "https://raw.githubusercontent.com/Nozomagarion/altstore-source/main/icon.png",
+  "website": "https://github.com/Nozomagarion/altstore-source",
+  "tintColor": "3B82F6",
+  "apps": [],
+  "news": []
+}
