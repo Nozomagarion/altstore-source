@@ -2,6 +2,18 @@
 
 Source [AltStore](https://altstore.io) / [SideStore](https://sidestore.io) de mes apps.
 
+## Installer (AltStore Classic)
+À faire une seule fois, avec un ordinateur (Mac ou Windows) et un compte Apple gratuit :
+
+1. Installe **AltServer** depuis [altstore.io](https://altstore.io) sur ton ordinateur, puis **AltStore Classic** sur ton iPhone via AltServer (iPhone branché en USB la première fois).
+   > Utilise **AltStore Classic**, pas *AltStore PAL* (la version de l'App Store européen) : PAL n'accepte que des apps notarisées par Apple.
+2. Sur l'iPhone : Réglages → Général → VPN et gestion de l'appareil → fais confiance à ton profil, et active le **Mode développeur** (Réglages → Confidentialité et sécurité).
+3. Dans AltStore → **Sources** → **+**, colle le lien ci-dessous.
+4. Ouvre la source, appuie sur **Free** à côté de l'app.
+5. Ajoute ensuite le widget depuis l'écran d'accueil (appui long → +).
+
+**Renouvellement** : l'app expire au bout de 7 jours. AltStore la renouvelle tout seul tant que l'ordinateur avec AltServer est allumé et sur le même Wi-Fi que l'iPhone.
+
 ## Ajouter la source
 Dans AltStore → **Sources** → **+**, colle :
 
