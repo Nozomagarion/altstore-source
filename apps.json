@@ -34,6 +34,62 @@
       "downloadURL": "https://github.com/Nozomagarion/altstore-source/releases/download/quotas-ia-v1.0.0/QuotasIA.ipa",
       "size": 366482,
       "screenshots": []
+    },
+    {
+      "name": "MangaRead",
+      "bundleIdentifier": "com.mangaread.app",
+      "developerName": "Nozo",
+      "subtitle": "Lecteur manga façon Mihon",
+      "localizedDescription": "Lecteur manga open-source inspiré de Mihon : extensions JS sur l'appareil, bibliothèque, recherche globale, lecteur complet.\n\nTon contenu, tes sources : l'app ne fournit aucun manga.",
+      "iconURL": "https://raw.githubusercontent.com/Nozomagarion/altstore-source/main/icons/mangaread.png",
+      "tintColor": "7C4DFF",
+      "category": "entertainment",
+      "tagPrefix": "mangaread-",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "0.1.0",
+          "date": "2026-09-30T21:22:42Z",
+          "localizedDescription": "Première version publique de MangaRead.",
+          "downloadURL": "https://github.com/Nozomagarion/altstore-source/releases/download/mangaread-v0.1.0/MangaRead.ipa",
+          "size": 8760615,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "0.1.0",
+      "versionDate": "2026-09-30T21:22:42Z",
+      "versionDescription": "Première version publique de MangaRead.",
+      "downloadURL": "https://github.com/Nozomagarion/altstore-source/releases/download/mangaread-v0.1.0/MangaRead.ipa",
+      "size": 8760615,
+      "screenshots": []
+    },
+    {
+      "name": "Hanafuda Nozo",
+      "bundleIdentifier": "fr.nozo.hanafuda",
+      "developerName": "Nozo",
+      "subtitle": "Koi-Koi contre l'ordinateur",
+      "localizedDescription": "Un vrai jeu de Koi-Koi (Hanafuda) contre l'ordinateur : parties libres, parcours solo en 12 manches et tournoi à 8 joueurs.\n\nPlusieurs thèmes de cartes, dont les illustrations Nozo.",
+      "iconURL": "https://raw.githubusercontent.com/Nozomagarion/altstore-source/main/icons/hanafuda.png",
+      "tintColor": "2E7D5B",
+      "category": "games",
+      "tagPrefix": "hanafuda-",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1.0.0",
+          "date": "2026-09-30T21:22:54Z",
+          "localizedDescription": "Première version : Koi-Koi contre l'ordinateur, parcours solo et tournoi.",
+          "downloadURL": "https://github.com/Nozomagarion/altstore-source/releases/download/hanafuda-v1.0.0/HanafudaNozo.ipa",
+          "size": 259274669,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "1.0.0",
+      "versionDate": "2026-09-30T21:22:54Z",
+      "versionDescription": "Première version : Koi-Koi contre l'ordinateur, parcours solo et tournoi.",
+      "downloadURL": "https://github.com/Nozomagarion/altstore-source/releases/download/hanafuda-v1.0.0/HanafudaNozo.ipa",
+      "size": 259274669,
+      "screenshots": []
     }
   ],
   "news": []
